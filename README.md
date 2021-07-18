@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **apurvk4/apurvk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Hi there 👋
+ I am Apurv Kumar and i am currently pursuing a Bachelor's degree in Computer science Engineering(2019-23) from <a href="http://www.skit.ac.in">Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT Jaipur)</a>. I enjoy learning about new technology and applying them to real-world situations.
+I'm a problem solver at heart and always willing to learn new things.
+
+##### My Profiles 
+<a href="https://auth.geeksforgeeks.org/user/apurvkumarak/practice/"><img alt="HackerRank" src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/DragonBallZ99"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="http://www.linkedin.com/in/apurv-kumar444/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+****
