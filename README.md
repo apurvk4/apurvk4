@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Hi there 👋
- I am Apurv Kumar and i am currently pursuing a Bachelor's degree in Computer science Engineering(2019-23) from <a href="http://www.skit.ac.in">Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT Jaipur)</a>. I enjoy learning about new technology and applying them to real-world situations.
-I'm a problem solver at heart and always willing to learn new things.
+ I am Apurv Kumar and i am currently pursuing a Bachelor's degree in Computer science Engineering(2019-23) from <a href="http://www.skit.ac.in">Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT Jaipur)</a>. 
 
 ##### My Profiles 
 <a href="https://auth.geeksforgeeks.org/user/apurvkumarak/practice/"><img alt="HackerRank" src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
