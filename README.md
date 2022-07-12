@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/DragonBallZ99"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="http://www.linkedin.com/in/apurv-kumar444/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ****
-##📫 my resume :-  https://drive.google.com/file/d/1dR2LTqtvbUVCTZ8BU2p-Ck6Nkf-vGKTD/view?usp=sharing
+## 📫 my resume :-  https://drive.google.com/file/d/1dR2LTqtvbUVCTZ8BU2p-Ck6Nkf-vGKTD/view?usp=sharing
