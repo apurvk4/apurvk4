@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/apurvkumarak/practice/"><img alt="HackerRank" src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/DragonBallZ99"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="http://www.linkedin.com/in/apurv-kumar444/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="http://leetcode.com/maximusPrime11"><img alt="Leetcode" src="https://camo.githubusercontent.com/2454f972a29b1c10bf92c7dfaa9ec82b7bc2952a706178eadaf7384779bd4782/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f39362f3030303030302f65787465726e616c2d6c6576656c2d75702d796f75722d636f64696e672d736b696c6c732d616e642d717569636b6c792d6c616e642d612d6a6f622d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" width="70px" height="20px" /> </a>
 ****
 ## 📫 my resume :-  https://drive.google.com/file/d/1dR2LTqtvbUVCTZ8BU2p-Ck6Nkf-vGKTD/view?usp=sharing
